@@ -26,6 +26,8 @@ Perform the following steps:
     ```bash
     go get -u github.com/ybkuroki/go-webapp-sample
     ```
+2. Compile the package with RHEL 7 - go build -o go-webapp-sample
+
 
 ## Starting Server
 There are 2 methods for starting server.
